@@ -1,0 +1,1 @@
+console.log('Citiesapps JS admin loaded!');
